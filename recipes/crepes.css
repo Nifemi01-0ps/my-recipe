@@ -25,18 +25,16 @@ figure {
     text-align: center;   
 }
 ul>li {
-    text-align: center;
     background-color: orange;
     padding: 5px;
-    border-radius: 5px;
-    text-decoration: none
+    
+    text-decoration: none;
 }
-p {
+/*p {
     text-align: center;
-}
-ol>li {
-    text-align: center;
-    background-color:  #C0A9BD;
+/* } */
+ol > li {
+    
     color: ;
     padding: 5px;
     border: 1px solid #C0A9BD;
@@ -54,4 +52,16 @@ ol>li {
 img {
     width: 700px;
     width: 400px;
+}
+.section {
+   width: 1000px;
+   margin: 0 auto;
+  
+}
+.para {
+    text-align: center;
+}
+img {
+    width: 700px;
+    height: 400px;
 }
